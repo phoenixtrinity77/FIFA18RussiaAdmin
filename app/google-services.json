@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "163264731916",
+    "firebase_url": "https://fifa-f2235.firebaseio.com",
+    "project_id": "fifa-f2235",
+    "storage_bucket": "fifa-f2235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163264731916:android:0c5fd7cb894892b3",
+        "android_client_info": {
+          "package_name": "com.trinity.phoenix.fifa_18russia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163264731916-igs61vmjec1a7tvdh33c224o0ob63nuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinity.phoenix.fifa_18russia",
+            "certificate_hash": "416641abd4198da68a3bbab637ad3d7b70af6b4a"
+          }
+        },
+        {
+          "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSswYIc4iVWxcxBPaNpEygDCSDHN5J24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163264731916:android:a061f8cc35de48e9",
+        "android_client_info": {
+          "package_name": "com.trinity.phoenix.fifa_18russiaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163264731916-jtscd2oavmjkuuf8qc9g60b43b56pjqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinity.phoenix.fifa_18russiaadmin",
+            "certificate_hash": "416641abd4198da68a3bbab637ad3d7b70af6b4a"
+          }
+        },
+        {
+          "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSswYIc4iVWxcxBPaNpEygDCSDHN5J24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163264731916-gv1hvufimildbcllpkvfif6d1mimhrc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
